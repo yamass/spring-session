@@ -38,7 +38,6 @@ import org.springframework.session.ExpiringSession;
 import org.springframework.session.FindByPrincipalNameSessionRepository;
 import org.springframework.session.MapSession;
 import org.springframework.session.Session;
-import org.springframework.session.SessionRepository;
 import org.springframework.session.events.SessionCreatedEvent;
 import org.springframework.session.events.SessionDeletedEvent;
 import org.springframework.session.events.SessionDestroyedEvent;
